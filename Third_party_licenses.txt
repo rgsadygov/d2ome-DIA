@@ -1,0 +1,326 @@
+####################################################################################################
+Package:Apache.Arrow
+Version:18.1.0
+project URL:https://arrow.apache.org/
+Description:Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware.
+licenseUrl:https://www.nuget.org/packages/Apache.Arrow/18.1.0/License
+license Type:LICENSE.txt
+
+####################################################################################################
+Package:Apache.Arrow
+Version:18.1.0
+project URL:https://arrow.apache.org/
+Description:Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware.
+licenseUrl:https://www.nuget.org/packages/Apache.Arrow/18.1.0/License
+license Type:LICENSE.txt
+
+####################################################################################################
+Package:HarfBuzzSharp
+Version:7.3.0.3
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:HarfBuzzSharp.NativeAssets.Linux
+Version:7.3.0.3
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:HarfBuzzSharp.NativeAssets.macOS
+Version:7.3.0.3
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:HarfBuzzSharp.NativeAssets.Win32
+Version:7.3.0.3
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:MathNet.Numerics
+Version:5.0.0
+project URL:https://numerics.mathdotnet.com/
+Description:Math.NET Numerics is the numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .NET 5.0 or higher, .NET Standard 2.0 and .NET Framework 4.6.1 or higher, on Windows, Linux and Mac.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:OpenTK
+Version:3.1.0
+project URL:http://www.opentk.com
+Description:The Open Toolkit is set of fast, low-level C# bindings for OpenGL, OpenGL ES and OpenAL. It runs on all major platforms and powers hundreds of apps, games and scientific research.
+OpenTK provides several utility libraries, including a math/linear algebra package, a windowing system, and input handling.
+licenseUrl:http://github.com/opentk/opentk/blob/master/License.txt
+license Type:
+
+####################################################################################################
+Package:OpenTK.GLControl
+Version:3.1.0
+project URL:http://www.opentk.com
+Description:The Open Toolkit is set of fast, low-level C# bindings for OpenGL, OpenGL ES and OpenAL. It runs on all major platforms and powers hundreds of apps, games and scientific research.
+OpenTK provides several utility libraries, including a math/linear algebra package, a windowing system, and input handling.
+licenseUrl:http://github.com/opentk/opentk/blob/master/License.txt
+license Type:
+
+####################################################################################################
+Package:ParquetSharp
+Version:17.0.0-beta1
+project URL:https://github.com/G-Research/ParquetSharp
+Description:ParquetSharp is a .NET library for reading and writing Parquet files. It's implemented in C# as a PInvoke wrapper around apache-parquet-cpp to provide high performance and compatibility.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:ParquetSharp
+Version:17.0.0-beta1
+project URL:https://github.com/G-Research/ParquetSharp
+Description:ParquetSharp is a .NET library for reading and writing Parquet files. It's implemented in C# as a PInvoke wrapper around apache-parquet-cpp to provide high performance and compatibility.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:ScottPlot
+Version:5.0.47
+project URL:https://scottplot.net/
+Description:ScottPlot is a free and open-source plotting library for .NET. This package can be used to create static plots, and user controls for displaying plots interactively are available as separate NuGet packages.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:ScottPlot.WinForms
+Version:5.0.47
+project URL:https://scottplot.net/
+Description:User controls for displaying interactive plots in Windows Forms applications
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:SkiaSharp
+Version:2.88.9
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:SkiaSharp.HarfBuzz
+Version:2.88.9
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:This package adds text shaping support to SkiaSharp via HarfBuzz.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:SkiaSharp.NativeAssets.Linux.NoDependencies
+Version:2.88.9
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+
+This variation of the Linux native assets includes the build of libSkiaSharp.so that does not have any dependencies on third-party libraries.
+
+The complete dependency list is:
+ - libpthread.so.0
+ - libdl.so.2
+ - libm.so.6
+ - libc.so.6
+ - ld-linux-x86-64.so.2
+
+The excluded dependencies are:
+ - Fontconfig
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:SkiaSharp.NativeAssets.macOS
+Version:2.88.9
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:SkiaSharp.NativeAssets.Win32
+Version:2.88.9
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:SkiaSharp.Views.Desktop.Common
+Version:2.88.9
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:SkiaSharp Views & Layers are a set of platform-specific views and containers that can be used to draw on the screen.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:SkiaSharp.Views.WindowsForms
+Version:2.88.9
+project URL:https://go.microsoft.com/fwlink/?linkid=868515
+Description:SkiaSharp Views & Layers are a set of platform-specific views and containers that can be used to draw on the screen.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Buffers
+Version:4.6.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:System.Buffers
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Buffers
+Version:4.6.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:System.Buffers
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Drawing.Common
+Version:4.7.3
+project URL:https://github.com/dotnet/corefx
+Description:Provides access to GDI+ graphics functionality.
+
+Commonly Used Types:
+System.Drawing.Bitmap
+System.Drawing.BitmapData
+System.Drawing.Brush
+System.Drawing.Font
+System.Drawing.Graphics
+System.Drawing.Icon
+ 
+When using NuGet 3.x this package requires at least version 3.4.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Memory
+Version:4.6.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:System.Memory
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Memory
+Version:4.6.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:System.Memory
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Numerics.Vectors
+Version:4.6.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:System.Numerics.Vectors
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Numerics.Vectors
+Version:4.6.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:System.Numerics.Vectors
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Runtime.CompilerServices.Unsafe
+Version:6.1.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:Provides the System.Runtime.CompilerServices.Unsafe class, which provides generic, low-level functionality for manipulating pointers.
+
+Commonly Used Types:
+System.Runtime.CompilerServices.Unsafe
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Runtime.CompilerServices.Unsafe
+Version:6.1.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:Provides the System.Runtime.CompilerServices.Unsafe class, which provides generic, low-level functionality for manipulating pointers.
+
+Commonly Used Types:
+System.Runtime.CompilerServices.Unsafe
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Threading.Tasks.Extensions
+Version:4.6.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:System.Threading.Tasks.Extensions
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Threading.Tasks.Extensions
+Version:4.6.0
+project URL:https://github.com/dotnet/maintenance-packages
+Description:System.Threading.Tasks.Extensions
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.ValueTuple
+Version:4.5.0
+project URL:https://dot.net/
+Description:Provides the System.ValueTuple structs, which implement the underlying types for tuples in C# and Visual Basic.
+
+Commonly Used Types:
+System.ValueTuple
+System.ValueTuple<T1>
+System.ValueTuple<T1, T2>
+System.ValueTuple<T1, T2, T3>
+System.ValueTuple<T1, T2, T3, T4>
+System.ValueTuple<T1, T2, T3, T4, T5>
+System.ValueTuple<T1, T2, T3, T4, T5, T6>
+System.ValueTuple<T1, T2, T3, T4, T5, T6, T7>
+System.ValueTuple<T1, T2, T3, T4, T5, T6, T7, TRest>
+ 
+30ab651fcb4354552bd4891619a0bdd81e0ebdbf 
+When using NuGet 3.x this package requires at least version 3.4.
+licenseUrl:https://github.com/dotnet/corefx/blob/master/LICENSE.TXT
+license Type:MIT
+
+####################################################################################################
+Package:System.ValueTuple
+Version:4.5.0
+project URL:https://dot.net/
+Description:Provides the System.ValueTuple structs, which implement the underlying types for tuples in C# and Visual Basic.
+
+Commonly Used Types:
+System.ValueTuple
+System.ValueTuple<T1>
+System.ValueTuple<T1, T2>
+System.ValueTuple<T1, T2, T3>
+System.ValueTuple<T1, T2, T3, T4>
+System.ValueTuple<T1, T2, T3, T4, T5>
+System.ValueTuple<T1, T2, T3, T4, T5, T6>
+System.ValueTuple<T1, T2, T3, T4, T5, T6, T7>
+System.ValueTuple<T1, T2, T3, T4, T5, T6, T7, TRest>
+ 
+30ab651fcb4354552bd4891619a0bdd81e0ebdbf 
+When using NuGet 3.x this package requires at least version 3.4.
+licenseUrl:https://github.com/dotnet/corefx/blob/master/LICENSE.TXT
+license Type:MIT
+
