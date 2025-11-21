@@ -73,19 +73,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5yTeA60neSkfflHG/v5WWEBe3iCi3GzEiEr81eNJRMw=</dsig:DigestValue>
+        <dsig:DigestValue>Aft5IfLYeF0IqEOPFdSy6a83+/MnCoc7535LnhyEBEU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D2omeCoreFunctions.dll" size="201728">
-      <assemblyIdentity name="D2omeCoreFunctions" version="1.0.9452.24622" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="D2omeCoreFunctions" version="1.0.9456.21365" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rvK7cb27YLU4SNdAh1QdSN4Dc32DupRtERd/MtJEIAU=</dsig:DigestValue>
+        <dsig:DigestValue>W40z+E782iZtqamU/FUPSr0K2xFzaPafUGwUXP5EOz8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -145,7 +145,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>h13wWAsyFH8KZ/Ef5zYa26ePgT3TF74NL3cmVWaEkrU=</dsig:DigestValue>
+        <dsig:DigestValue>9dHnf0Q3wW2uX9LxX6uZfu+BwjELxgow4r5OVpbetaA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
