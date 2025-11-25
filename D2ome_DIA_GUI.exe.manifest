@@ -73,19 +73,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Aft5IfLYeF0IqEOPFdSy6a83+/MnCoc7535LnhyEBEU=</dsig:DigestValue>
+        <dsig:DigestValue>u79bxAB041u9VQ8uKc+/No0W1K5+V19hpiM9TIjtaPM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D2omeCoreFunctions.dll" size="201728">
-      <assemblyIdentity name="D2omeCoreFunctions" version="1.0.9456.21365" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="D2omeCoreFunctions" version="1.0.9460.18278" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>W40z+E782iZtqamU/FUPSr0K2xFzaPafUGwUXP5EOz8=</dsig:DigestValue>
+        <dsig:DigestValue>MmZ3xjk1xyoYUXa7jop6j9GnCYNC1lngJJ9InUU1UdM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -102,14 +102,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IsotopomerDynamics.dll" size="195072">
-      <assemblyIdentity name="IsotopomerDynamics" version="1.0.9028.26911" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IsotopomerDynamics.dll" size="174592">
+      <assemblyIdentity name="IsotopomerDynamics" version="1.0.9460.18277" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1jwya5DjydFyKbchd2SSi7STIbgq9KQN0YRlP4ecZew=</dsig:DigestValue>
+        <dsig:DigestValue>jLqm9l/Ii+JSU5odPK/2I9RWVDtWB/ar/OnCHWgrDcQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -145,7 +145,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9dHnf0Q3wW2uX9LxX6uZfu+BwjELxgow4r5OVpbetaA=</dsig:DigestValue>
+        <dsig:DigestValue>IbyOBGREaO0JheRgPyWggq/DXEeTpeTYBLefUwfmJak=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
