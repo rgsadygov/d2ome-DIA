@@ -2,7 +2,7 @@
 
 ## DIA quantification and turnover rate estimation workflow
 
-d2ome-DIA is a stand-alone software tool designed to compute turnover rates of peptides/proteins from metabolic deuterated water-labeling combined data-independent acquisition LC-MS experiments. It uses LC-MS spectral files (obtained from metabolically deuterated water labeled samples) in mzML format<sup>1,2</sup> together with database search results (from DIA-NN<sup>5</sup>) to quantify label incorporations for precursor ions from MS1 spectra and fragment ions from MS2 spectra. Quantification includes the monoisotope and the first five heavy mass isotopomers. For precursor and fragment ion quantification, a monoisotopic signal is used only when the corresponding first heavy mass isotopomer is also detected in the same mass spectrum. It then computes peptide turnover rates and provides a graphical user interface (GUI) for visualizing quality of fitting of theoretical exponential depletion (of the monoisotopic relative isotope abundance, RIA) to the experimental data. It also includes a feature for visual inspection of MS1 and MS2 scans used in the quantification.
+d2ome-DIA is a stand-alone software tool designed to compute turnover rates of peptides/proteins from metabolic deuterated water-labeling combined data-independent acquisition LC-MS experiments. It uses LC-MS spectral files (obtained from metabolically deuterated water labeled samples) in mzML format<sup>1,2</sup> together with database search results (from DIA-NN<sup>3</sup>) to quantify label incorporations for precursor ions from MS1 spectra and fragment ions from MS2 spectra. Quantification includes the monoisotope and the first five heavy mass isotopomers. For precursor and fragment ion quantification, a monoisotopic signal is used only when the corresponding first heavy mass isotopomer is also detected in the same mass spectrum. It then computes peptide turnover rates and provides a graphical user interface (GUI) for visualizing quality of fitting of theoretical exponential depletion (of the monoisotopic relative isotope abundance, RIA) to the experimental data. It also includes a feature for visual inspection of MS1 and MS2 scans used in the quantification.
 
 ## Software outputs
 
@@ -45,16 +45,12 @@ The following procedure describes how to run the d2ome-DIA.
 
 10. The other tabs on the Validation page allow the visualizations of other quantitative information for label enrichment determination, such as monoisotopic RIA elution profile, and label incorporation.
 
+
 ## References
 
 (1) Gilski, M. J.; Sadygov, R. G. Comparison of Programmatic Approaches for Efficient Accessing to mzML Files. J. Data Mining. Genomics Proteomics 2011, 2 (1).
 
 (2) Martens, L.; Chambers, M.; Sturm, M.; Kessner, D.; Levander, F.; Shofstahl, J.; Tang, W. H.; Rompp, A.; Neumann, S.; Pizarro, A. D.; et al. mzML--a community standard for mass spectrometry data. Mol Cell Proteomics 2011, 10 (1), R110 000133. DOI: 10.1074/mcp.R110.000133.
 
-(3) Chambers, M. C.; Maclean, B.; Burke, R.; Amodei, D.; Ruderman, D. L.; Neumann, S.; Gatto, L.; Fischer, B.; Pratt, B.; Egertson, J.; et al. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol 2012, 30 (10), 918-920. DOI: 10.1038/nbt.2377  From NLM Medline.
+(3) Demichev, V.; Messner, C. B.; Vernardis, S. I.; Lilley, K. S.; Ralser, M. DIA-NN: neural networks and interference correction enable deep proteome coverage in high throughput. Nat Methods 2020, 17 (1), 41-44. DOI: 10.1038/s41592-019-0638-x.
 
-(4) Perkins, D. N.; Pappin, D. J.; Creasy, D. M.; Cottrell, J. S. Probability-based protein identification by searching sequence databases using mass spectrometry data. Electrophoresis 1999, 20 (18), 3551-3567.
-
-(5) Demichev, V.; Messner, C. B.; Vernardis, S. I.; Lilley, K. S.; Ralser, M. DIA-NN: neural networks and interference correction enable deep proteome coverage in high throughput. Nat Methods 2020, 17 (1), 41-44. DOI: 10.1038/s41592-019-0638-x  From NLM Medline.
-
-(6) Cambridge, S. B.; Gnad, F.; Nguyen, C.; Bermejo, J. L.; Kruger, M.; Mann, M. Systems-wide proteomic analysis in mammalian cells reveals conserved, functional protein turnover. J Proteome Res 2011, 10 (12), 5275-5284. DOI: 10.1021/pr101183k.
