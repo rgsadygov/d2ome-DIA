@@ -54,38 +54,38 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D2ome_DIA_GUI.exe" size="250848">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D2ome_DIA_GUI.exe" size="256512">
       <assemblyIdentity name="D2ome_DIA_GUI" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FdkwasMk42Z7t1wsvWBFNQBcs4xZZEMQQPGln+6dfgw=</dsig:DigestValue>
+        <dsig:DigestValue>wKQ6rHfuAc3ctTaEjf+Jrg96zEjIMa7jianBH7vlEO0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D2ome_DIA_Quantification.exe" size="130048">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D2ome_DIA_Quantification.exe" size="178176">
       <assemblyIdentity name="D2ome_DIA_Quantification" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>u79bxAB041u9VQ8uKc+/No0W1K5+V19hpiM9TIjtaPM=</dsig:DigestValue>
+        <dsig:DigestValue>hljw2YbDI9K9rK9UZa1IwyHH53M6P2bbIc0jG1DQkbc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D2omeCoreFunctions.dll" size="201728">
-      <assemblyIdentity name="D2omeCoreFunctions" version="1.0.9460.18278" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D2omeCoreFunctions.dll" size="201216">
+      <assemblyIdentity name="D2omeCoreFunctions" version="1.0.9806.30986" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MmZ3xjk1xyoYUXa7jop6j9GnCYNC1lngJJ9InUU1UdM=</dsig:DigestValue>
+        <dsig:DigestValue>RDXMor78w4jAYGQBRjAzBJY6Audrr4r08iWPuwtf1eo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -103,13 +103,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IsotopomerDynamics.dll" size="174592">
-      <assemblyIdentity name="IsotopomerDynamics" version="1.0.9460.18277" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="IsotopomerDynamics" version="1.0.9155.28761" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jLqm9l/Ii+JSU5odPK/2I9RWVDtWB/ar/OnCHWgrDcQ=</dsig:DigestValue>
+        <dsig:DigestValue>lLlYSbc4TzaHR4H14xZIyUXXSCmjIiLxdTEGhbM77SU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -145,7 +145,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IbyOBGREaO0JheRgPyWggq/DXEeTpeTYBLefUwfmJak=</dsig:DigestValue>
+        <dsig:DigestValue>Nu+eiI9DFWPfGwapqidZyhF5NFVCHazWDtOx8bd0ys4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
